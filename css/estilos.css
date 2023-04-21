@@ -31,6 +31,8 @@ center {
     margin: 20px auto;
     width: 70%;
     background: white;
+    padding: 5%;
+    
     
 }
 .numero{
@@ -94,13 +96,13 @@ center {
         
 }
 
-#Calcular ul li:hover{
+#calcular ul li:hover{
     background: mediumorchid;
     color: rgb(231, 12, 213);
 
 }
 #calcular ul li:active{
-    background: rgb(21, 218, 191);
+    background: rgb(209, 15, 135);
     color:white;
 }
     
